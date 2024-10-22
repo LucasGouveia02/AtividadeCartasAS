@@ -1,0 +1,6 @@
+- criar cartas do jogo
+- cada usuario escolhe 6 cartas
+- cada usuario escolhe 1 carta por turno 
+- sorteio com impar ou par para definir quem escolhe o atributo
+- a carta com menor atributo é eliminada
+- o jogo acaba quando o usuario perder as 6 cartas
